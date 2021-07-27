@@ -3,4 +3,4 @@
 MVVM, 
 ROOM, 
 Courotines, 
-Dependency Ijection with kodein
+Dependency Injection with kodein
