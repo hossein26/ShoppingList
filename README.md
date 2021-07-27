@@ -1,6 +1,6 @@
 # ShoppingList
 
-MVVM
-ROOM
-Courotines
+MVVM, 
+ROOM, 
+Courotines, 
 Dependency Ijection with kodein
